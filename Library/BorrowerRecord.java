@@ -3,6 +3,7 @@ package Tu;
 public class BorrowerRecord {
 	private String theName;
 
+	//auto generate
 	public String getTheName() {
 		return theName;
 	}

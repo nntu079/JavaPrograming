@@ -22,7 +22,8 @@ public class Library {
 		this.theBorrowers= new ArrayList<BorrowerRecord>();
 		
 	}
-
+	
+	//trong java deu la con tro nen truyen cai nay la tham chieu
 	public void addOneBook(Book aBook) {
 		// TODO Auto-generated method stub
 		this.theLoanStock.add(aBook);

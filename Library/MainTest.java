@@ -13,6 +13,7 @@ public class MainTest {
 		//Test case 2: Add one book
 		hcmusLib.addOneBook(java);
 		hcmusLib.addOneBook(csharp);
+		
 		hcmusLib.display();
 		
 		//Test case 3: display books available for Loan
